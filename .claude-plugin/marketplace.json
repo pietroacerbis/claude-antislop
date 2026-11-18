@@ -1,0 +1,14 @@
+{
+  "name": "claude-antislop",
+  "owner": {
+    "name": "Pietro Acerbis",
+    "email": "pietro@trygaja.com"
+  },
+  "plugins": [
+    {
+      "name": "antislop",
+      "source": "./",
+      "description": "The antislop list, the hooks that check what Claude writes, and the deslop skill."
+    }
+  ]
+}

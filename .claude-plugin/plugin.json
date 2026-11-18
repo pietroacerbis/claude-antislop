@@ -1,0 +1,12 @@
+{
+  "name": "antislop",
+  "version": "1.0.0",
+  "description": "Keeps the tells of AI writing out of what Claude writes: a list of 59 patterns in English and Italian, hooks that check every markdown file Claude writes and every reply, and deslop, a skill that rewrites a draft until it is clean.",
+  "author": {
+    "name": "Pietro Acerbis",
+    "email": "pietro@trygaja.com"
+  },
+  "homepage": "https://github.com/pietroacerbis/claude-antislop",
+  "license": "MIT",
+  "keywords": ["writing", "ai-slop", "hooks", "editing"]
+}
